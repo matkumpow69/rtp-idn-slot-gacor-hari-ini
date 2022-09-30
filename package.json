@@ -1,0 +1,15 @@
+{
+  "name": "rtp-idn-slot-gacor-hari-ini",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Rtp idn slot paling gacor hari ini bisa kamu dapatkan dengan kalkulasi paling tepat sehingga akan menghasilkan kemenangan yang sangat sempurna bermain idn slot gacor 2022",
+  "keywords": [
+    "idn slot",
+    "rtp slot","slot gacor","rtp idn slot"
+  ],
+  "repository": "https://github.com/matkumpow69/rtp-idn-slot-gacor-hari-ini",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
